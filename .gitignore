@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data Files (downloaded automatically by data_loader.py)
+data/*.csv
+data/*.zip
+
+# Model Weights (generated during training)
+models/*.pkl
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE stuff
+.vscode/
+.idea/
