@@ -5,7 +5,7 @@ A production-ready recommendation system that combines **Collaborative Filtering
 ## ✨ Features
 - **Hybrid Scoring**: `(0.6 * Collaborative) + (0.4 * Content)` (Adjustable).
 - **Cold Start Handling**: Automatically switches to Content-Based filtering for new users.
-- **SVD Model**: Trained using the `scikit-surprise` library for accurate rating predictions.
+- **SVD Model**: Trained using `scikit-learn`'s `TruncatedSVD` for accurate rating predictions.
 - **TF-IDF Vectorizer**: Used for content similarity based on movie genres.
 - **Streamlit UI**: Clean, interactive dashboard for exploring recommendations.
 
