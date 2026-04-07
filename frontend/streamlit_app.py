@@ -96,4 +96,4 @@ if st.button("Generate Recommendations", type="primary"):
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("Created with ❤️ by Antigravity AI | Dataset: MovieLens ml-latest-small")
+st.markdown("Created with ❤️ by DHANUSHKUMAR T | Dataset: MovieLens ml-latest-small")
