@@ -35,6 +35,3 @@ A production-ready recommendation system that combines **Collaborative Filtering
 
 ## 🧪 Evaluation
 The Collaborative Filtering (SVD) model is evaluated using **RMSE** (Root Mean Square Error). On the `ml-latest-small` dataset, it typically achieves ~0.87-0.88 RMSE.
-
----
-Created by Antigravity AI
